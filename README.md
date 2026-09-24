@@ -16,9 +16,14 @@ Information-Assurance-Lab/
 │   │   └── 🔑 EXP_3-Caesar-Cipher.py
 │   │
 │   └── 🧪 LAB-4/
-│        └── 🔑 EXP_4-Sha256_hash.py
+│   │    └── 🔑 EXP_4-Sha256_hash.py
+│   │
+│   └──  🧪 LAB-5/
+│          └── 🔑 EXP_5-rbac_authentication.py
 │
-└── 📄 README.md
+│
+│
+└──── 📄 README.md
 ```
 
 ### 🧪 Lab Overview
