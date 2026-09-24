@@ -30,5 +30,7 @@ Information-Assurance-Lab/
 | **LAB-3** | Caesar Cipher              | 🔑 Cryptography      |
 | **LAB-4** | SHA-256 HASH               | 🔑 Sha-256           |
 
+## clone repo 
 ```
+git clone https://github.com/Atharva-ark06/Information-Assurance-Lab.git
 ```
