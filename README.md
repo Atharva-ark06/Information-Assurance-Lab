@@ -28,6 +28,7 @@ Information-Assurance-Lab/
 | **LAB-1** | Password Strength Analysis | 🔐 Password Security |
 | **LAB-2** | Risk Calculator            | 🛡️ Risk Assessment   |
 | **LAB-3** | Caesar Cipher              | 🔑 Cryptography      |
+| **LAB-4** | SHA-256 HASH               | 🔑 Sha-256           |
 
 ```
 
