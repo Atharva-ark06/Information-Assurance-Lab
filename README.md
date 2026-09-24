@@ -13,7 +13,10 @@ Information-Assurance-Lab/
 │   │   └── 📊 Risk_Assessment_Table.xlsx
 │   │
 │   └── 🧪 LAB-3/
-│       └── 🔑 EXP_3-Caesar-Cipher.py
+│   │   └── 🔑 EXP_3-Caesar-Cipher.py
+│   │
+│   └── 🧪 LAB-4/
+│        └── 🔑 EXP_4-Sha256_hash.py
 │
 └── 📄 README.md
 ```
