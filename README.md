@@ -34,6 +34,7 @@ Information-Assurance-Lab/
 | **LAB-2** | Risk Calculator            | 🛡️ Risk Assessment   |
 | **LAB-3** | Caesar Cipher              | 🔑 Cryptography      |
 | **LAB-4** | SHA-256 HASH               | 🔑 Sha-256           |
+| **LAB-5** | rbac_authentication        | 🔑 User Authenatocation and RBAC  |
 
 ## clone repo 
 ```
