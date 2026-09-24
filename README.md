@@ -31,6 +31,4 @@ Information-Assurance-Lab/
 | **LAB-4** | SHA-256 HASH               | 🔑 Sha-256           |
 
 ```
-
-. If you want the README to show **only files that actually exist right now**, remove the LAB-3 section.
 ```
